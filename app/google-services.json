@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "339568452524",
+    "firebase_url": "https://student-information-desk-6e075-default-rtdb.firebaseio.com",
+    "project_id": "student-information-desk-6e075",
+    "storage_bucket": "student-information-desk-6e075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339568452524:android:5fc6381287941a551c1009",
+        "android_client_info": {
+          "package_name": "com.example.student_information_desk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG79K7h8p5Ojj8KYBHTzKTwgjX0KchwRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
