@@ -61,8 +61,11 @@ public class MyServiceTypeAdapter extends RecyclerView.Adapter<MyServiceTypeAdap
                 intent.putExtra(Common.KEY_COUNTER_STORE,counterList.get(pos));
                 intent.putExtra(Common.KEY_STEP,1);
                 localBroadcastManager.sendBroadcast(intent);
+
+
             }
         });
+
 
     }
 

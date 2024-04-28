@@ -46,7 +46,7 @@ import devs.mulham.horizontalcalendar.HorizontalCalendarListener;
 import devs.mulham.horizontalcalendar.HorizontalCalendarView;
 
 
-public class BookingStep3Fragment extends Fragment implements ITimeSlotLoadListener {
+public class BookingStep3Fragment extends Fragment implements  ITimeSlotLoadListener {
 
     //variable
     DocumentReference employeeDoc;

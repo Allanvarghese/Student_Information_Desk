@@ -12,6 +12,8 @@ public class Common {
     public static final String KEY_DISPLAY_TIME_SLOT = "DISPLAY_TIME_SLOT";
     public static final String KEY_STEP = "STEP" ;
     public static final String KEY_EMPLOYEE_SELECTED = "EMPLOYEE_SELECTED";
+    public static final String KEY_TIME_SLOT = "KEY_TIME_SLOT"; // Ensure this line is added
+
     public static final int TIME_SLOT_TOTAL = 24;
 
     public static Counter CurrentCounter;
